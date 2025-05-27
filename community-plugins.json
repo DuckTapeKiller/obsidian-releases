@@ -1,10 +1,10 @@
 [
   {
-    "id": "obsidian-plugin-etymology-bilingual",
-    "name": "Etymology Lookup EN and SP",
+    "id": "obsidian-etymology-EN-FR-ES",
+    "name": "Etymology Lookup EN, FR, and ES",
     "author": "DuckTapeKiller",
-    "description": "Lookup the etymology of words in English and Spanish in your Obsidian notes.",
-    "repo": "DuckTapeKiller/obsidian-plugin-etymology-bilingual"
+    "description": "Lookup the etymology of words in English, French, and Spanish in your Obsidian notes.",
+    "repo": "DuckTapeKiller/obsidian-etymology-EN-FR-ES"
   },
   {
     "id": "nldates-obsidian",
