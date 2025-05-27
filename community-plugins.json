@@ -1,18 +1,25 @@
 [
-    {
-        "id": "nldates-obsidian",
-        "name": "Natural Language Dates",
-        "author": "Argentina Ortega Sainz",
-        "description": "Create date-links based on natural language.",
-        "repo": "argenos/nldates-obsidian"
-    },
-    {
-        "id": "hotkeysplus-obsidian",
-        "name": "Hotkeys++",
-        "author": "Argentina Ortega Sainz",
-        "description": "Additional hotkeys to do common things.",
-        "repo": "argenos/hotkeysplus-obsidian"
-    },
+  {
+    "id": "obsidian-plugin-etymology-bilingual",
+    "name": "Etymology Lookup EN and SP",
+    "author": "DuckTapeKiller",
+    "description": "Lookup the etymology of words in English and Spanish in your Obsidian notes.",
+    "repo": "DuckTapeKiller/obsidian-plugin-etymology-bilingual"
+  },
+  {
+    "id": "nldates-obsidian",
+    "name": "Natural Language Dates",
+    "author": "Argentina Ortega Sainz",
+    "description": "Create date-links based on natural language.",
+    "repo": "argenos/nldates-obsidian"
+  },
+  {
+    "id": "hotkeysplus-obsidian",
+    "name": "Hotkeys++",
+    "author": "Argentina Ortega Sainz",
+    "description": "Additional hotkeys to do common things.",
+    "repo": "argenos/hotkeysplus-obsidian"
+  },
     {
         "id": "obsidian-git",
         "name": "Git",
